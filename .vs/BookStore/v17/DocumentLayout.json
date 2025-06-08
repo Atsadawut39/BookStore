@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jao A\\source\\repos\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|c:\\users\\jao a\\source\\repos\\bookstore\\bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|c:\\users\\jao a\\source\\repos\\bookstore\\bookstore\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|c:\\users\\jao a\\source\\repos\\bookstore\\bookstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|C:\\Users\\Jao A\\source\\repos\\BookStore\\bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|C:\\Users\\Jao A\\source\\repos\\BookStore\\bookstore\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|C:\\Users\\Jao A\\source\\repos\\BookStore\\bookstore\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{564DAF61-E7D4-4B5D-AD5D-A7F061C2B113}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Web.config",
+              "RelativeDocumentMoniker": "BookStore\\Web.config",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Web.config",
+              "RelativeToolTip": "BookStore\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-08T13:21:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "BookStore\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Default.aspx.cs",
+              "RelativeToolTip": "BookStore\\Default.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:16:08.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Default.aspx",
+              "RelativeDocumentMoniker": "BookStore\\Default.aspx",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Default.aspx",
+              "RelativeToolTip": "BookStore\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T10:32:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Contact.aspx",
+              "RelativeDocumentMoniker": "BookStore\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Contact.aspx",
+              "RelativeToolTip": "BookStore\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-02T06:46:48.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "BookStore\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Site.Mobile.Master",
+              "RelativeToolTip": "BookStore\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T12:33:04.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Site.Master",
+              "RelativeDocumentMoniker": "BookStore\\Site.Master",
+              "ToolTip": "C:\\Users\\Jao A\\source\\repos\\BookStore\\BookStore\\Site.Master",
+              "RelativeToolTip": "BookStore\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T12:33:01.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
