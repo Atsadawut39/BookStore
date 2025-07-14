@@ -10,26 +10,11 @@ obj/
 
 # Mono Auto Generated Files
 mono_crash.*
-
-# VS Code
-.vscode/
-
 # Rider
 .idea/
 
 # Visual Studio
 .vs/
-*.vssscc
-*.vspscc
-*_i.c
-*_p.c
-*.ncb
-*.sbr
-*.sdf
-*.cachefile
-*.dbmdl
-*.bak
-*.log
 
 # NuGet
 packages/
@@ -54,4 +39,3 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 *.DS_Store
-.vs/
